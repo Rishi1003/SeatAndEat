@@ -45,7 +45,7 @@ footer {
     letter-spacing: 2px;
     margin-bottom: 2rem;
     position: relative;
-    color: white;
+    color: rgb(19, 255, 6);
 }
 
 .footer-container h2::after {
